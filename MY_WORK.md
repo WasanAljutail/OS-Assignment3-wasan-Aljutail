@@ -18,7 +18,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your public Google Drive or YouTube link here after recording]
+**Video Link**: [https://drive.google.com/file/d/1NIzIU5Y0tnsRJeIE9LhIxptvjIDBJPR3/view?usp=drivesdk]
 
 ---
 
